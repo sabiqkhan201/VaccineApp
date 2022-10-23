@@ -1,2 +1,2 @@
 # vaxpass
-A digital app to update vaccination records.
+A digital app to update vaccination records

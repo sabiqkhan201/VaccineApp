@@ -1,2 +1,2 @@
 # vaxpass
-The digital immunization platform.
+A digital app to update vaccination records.

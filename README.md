@@ -1,2 +1,2 @@
-# VaccineApp
-A platform to digitally update vaccination records
+# vaxpass
+The digital immunization platform.
